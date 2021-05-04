@@ -1,3 +1,3 @@
 #!/user/bin/python3
 print ("Hello Word!");
-ffff
+print ("Hello Git");
